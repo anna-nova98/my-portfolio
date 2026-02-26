@@ -90,7 +90,7 @@ function ProjectCard({ image, title, description, tags }) {
         </div>
 
         {/* Links */}
-        <div className="flex items-center gap-6 text-sm">
+        {/* <div className="flex items-center gap-6 text-sm">
           <a
             href="#"
             className="flex items-center gap-2 text-rose-500 hover:underline"
@@ -106,7 +106,7 @@ function ProjectCard({ image, title, description, tags }) {
             <Github size={16} />
             Source Code
           </a>
-        </div>
+        </div> */}
 
       </div>
     </div>

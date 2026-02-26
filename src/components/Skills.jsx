@@ -29,7 +29,7 @@ export default function Skills() {
             title="Languages"
             skills={[
               "JavaScript", "TypeScript", "HTML5",
-              "CSS3", "SASS/SCSS", "SQL"
+              "CSS3", "SASS/SCSS", "SQL","Python","PHP"
             ]}
           />
 
@@ -38,10 +38,21 @@ export default function Skills() {
             icon={<Layout size={20} />}
             title="Frontend"
             skills={[
-              "React", "Vue.js", "Redux", "Vuex",
-              "Next.js", "Nuxt.js", "Tailwind CSS",
-              "Bootstrap", "Material-UI",
-              "Responsive Design", "UI/UX Optimization"
+                   "React",
+                    "Vue.js",
+                    "Redux",
+                    "Vuex",
+                    "Next.js",
+                    "Nuxt.js",
+                    "Tailwind CSS",
+                    "Bootstrap",
+                    "Material-UI",
+                    "Ant Design",
+                    "Responsive Design",
+                    "UI/UX Optimization",
+                    "Progressive Web Apps",
+                    "Web Accessibility",
+                    "Cross-browser Compatibility",
             ]}
           />
 
@@ -50,9 +61,16 @@ export default function Skills() {
             icon={<Server size={20} />}
             title="Backend"
             skills={[
-              "Node.js", "Express", "REST APIs",
-              "GraphQL", "JWT Authentication",
-              "Microservices"
+              "Node.js",
+              "Express",
+              "REST APIs",
+              "GraphQL",
+              "JWT Authentication",
+              "Microservices",
+              "WebSockets",
+              "Server-Side Rendering",
+              "API Design",
+              "OAuth",
             ]}
           />
 
@@ -61,9 +79,14 @@ export default function Skills() {
             icon={<Database size={20} />}
             title="Databases"
             skills={[
-              "MySQL", "MongoDB", "PostgreSQL",
-              "Redis", "Database Design",
-              "Query Optimization"
+               "MySQL",
+              "MongoDB",
+              "PostgreSQL",
+              "Redis",
+              "Database Design",
+              "Query Optimization",
+              "Data Modeling",
+              "IndexDB",
             ]}
           />
 
@@ -72,9 +95,21 @@ export default function Skills() {
             icon={<Wrench size={20} />}
             title="Tools & Platforms"
             skills={[
-              "Git", "GitHub", "GitLab", "Docker",
-              "Webpack", "Vite", "NPM", "Yarn",
-              "Postman", "VS Code"
+             "Git",
+              "GitHub",
+              "GitLab",
+              "Docker",
+              "Webpack",
+              "Vite",
+              "NPM",
+              "Yarn",
+              "Postman",
+              "VS Code",
+              "Jira",
+              "Figma",
+              "Linux",
+              "Nginx",
+              "AWS",
             ]}
           />
 
@@ -83,10 +118,19 @@ export default function Skills() {
             icon={<Sparkles size={20} />}
             title="Other Skills"
             skills={[
-              "Performance Optimization", "Debugging",
-              "Testing", "Agile/Scrum",
-              "Project Management", "Code Review",
-              "CI/CD", "SEO Optimization"
+             "Performance Optimization",
+              "Debugging",
+              "Testing",
+              "Jest",
+              "Cypress",
+              "Agile/Scrum",
+              "Project Management",
+              "Code Review",
+              "CI/CD",
+              "SEO Optimization",
+              "Security Best Practices",
+              "Team Leadership",
+              "Technical Documentation",
             ]}
           />
 
