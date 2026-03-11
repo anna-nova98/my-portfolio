@@ -47,8 +47,6 @@ export default function Skills() {
                     "Tailwind CSS",
                     "Bootstrap",
                     "Material-UI",
-                    "Ant Design",
-                    "Responsive Design",
                     "UI/UX Optimization",
                     "Progressive Web Apps",
                     "Web Accessibility",
@@ -129,8 +127,6 @@ export default function Skills() {
               "CI/CD",
               "SEO Optimization",
               "Security Best Practices",
-              "Team Leadership",
-              "Technical Documentation",
             ]}
           />
 
