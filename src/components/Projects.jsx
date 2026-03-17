@@ -52,7 +52,22 @@ export default function Projects() {
             github={"https://github.com/anna-nova98/Coffee-shop.git"}
             live_demo={"https://e-mustafa.github.io/Tamplate-103-CoffeeKing-Bootstrap/"}
           />
-
+          <ProjectCard
+            image="/projects/realworld.png"
+            title="RealWorld"
+            description="RealWorld is a reference full‑stack application specification that implements a Medium.com–like blogging platform with full CRUD (articles, comments), user authentication, profiles, and feed features. "
+            tags={["React", "Angular", "Django", "Node.js"]}
+            github={"https://github.com/anna-nova98/realworld"}
+            live_demo={"https://docs.realworld.show/"}
+          />
+          <ProjectCard
+            image="/projects/python-sample.png"
+            title="Host, run, and code Python in the cloud!"
+            description="A full‑stack boilerplate application integrating Django (backend) with React (frontend) and styled using Tailwind CSS. The project includes modern frontend workflows and backend APIs with session/cookie handling, making it suitable as a real scenario reference for user authentication, routing, and design integration between Django and React."
+            tags={["Python", "Django", "Django REST Framework", "React", "Tailwind CSS"]}
+            github={"https://github.com/anna-nova98/realworld"}
+            live_demo={"https://www.pythonanywhere.com/"}
+          />
         </div>
       </div>
     </section>

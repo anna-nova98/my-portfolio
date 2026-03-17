@@ -23,10 +23,9 @@ export default function About() {
             <div>
               <h3 className="font-semibold mb-2">Profile</h3>
               <p className="text-gray-700 leading-relaxed">
-                Senior Web Developer with 5+ years of experience in full-stack
-                development. Delivered scalable, user-friendly applications.
-                Recently relocated and continuously improving communication skills.
-                Passionate about building modern web applications and learning new technologies.
+                  I am a full-stack developer with over 6 years of experience building scalable web applications.
+                  I have extensive experience with frontend frameworks such as React and Vue, backend development using Node.js, Express, NestJS, PHP, and Python, and databases such as PostgreSQL and MongoDB. 
+                  I am passionate about writing clean and efficient code and integrating AI solutions. I am currently looking for a challenging project where I can demonstrate my frontend and backend development capabilities.
               </p>
             </div>
           </div>

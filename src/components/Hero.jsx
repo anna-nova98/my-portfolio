@@ -31,9 +31,7 @@ export default function Hero() {
 
         {/* Description */}
         <p className="max-w-2xl text-gray-500 leading-relaxed mb-10">
-          5+ years of experience in full-stack web development specializing in
-          JavaScript, React, Vue, and Node.js. Passionate about building modern,
-          scalable web applications and delivering exceptional user experiences.
+          6+ years of experience in full-stack web development specializing in JavaScript, React, Vue, and Node.js, Python, PHP. Passionate about building modern, scalable web applications and delivering exceptional user experiences.
         </p>
 
         {/* Buttons */}
