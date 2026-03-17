@@ -84,7 +84,7 @@ export default function About() {
                   <p className="text-sm text-gray-500">Shanghai, China</p>
                 </div>
                 <span className="text-sm text-gray-500">
-                  June 2020 - May 2022
+                  June 2019 - May 2022
                 </span>
               </div>
               <ul className="list-disc pl-5 mt-3 text-gray-700 space-y-2">

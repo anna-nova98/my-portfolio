@@ -26,7 +26,7 @@ export default function Hero() {
 
         {/* Subtitle */}
         <p className="text-xl text-gray-600 mb-6">
-          Senior Web Developer | Full-Stack Specialist
+          Senior Full-Stack Developer
         </p>
 
         {/* Description */}
