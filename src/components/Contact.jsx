@@ -20,13 +20,16 @@ export default function Contact() {
     const SERVICE_ID = import.meta.env.VITE_EMAILJS_SERVICE_ID;
     const TEMPLATE_ID = import.meta.env.VITE_EMAILJS_TEMPLATE_ID;
     const PUBLIC_KEY = import.meta.env.VITE_EMAILJS_PUBLIC_KEY;
-
+          
     emailjs.send(SERVICE_ID, TEMPLATE_ID, templateParams, PUBLIC_KEY)
       .then(() => {
         showSuccess("Message sent successfully!");
         setName(""); setEmail(""); setMessage("");
       })
       .catch(() => {
+        console.log(SERVICE_ID,"SERVICE_ID");
+        console.log(TEMPLATE_ID,"TEMPLATE_ID");
+        console.log(PUBLIC_KEY,"PUBLIC_KEY");
         showError("Failed to send message. Try again!");
       });
   };
