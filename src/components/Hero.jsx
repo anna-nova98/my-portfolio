@@ -58,7 +58,7 @@ export default function Hero() {
             <Github className="cursor-pointer hover:text-rose-500 transition" />
           </a>
           <a
-            href="mailto:annanova0908@outlook.com"
+            href="mailto:annanova0908@mail.ru"
             target="_blank"
           >
             <Mail className="cursor-pointer hover:text-rose-500 transition" />
